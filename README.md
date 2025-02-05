@@ -1,11 +1,11 @@
 # Movie Data Analysis & Recommendation
 
 # Project Overview
-This project involves analyzing a dataset of ~4,800 movies and building a recommendation system based on content similarity. The tasks include:
+This project involves analyzing a dataset of 4,800 movies and building a recommendation system based on content similarity. The tasks include:
 Exploratory Data Analysis (EDA)
 Data Cleaning & Feature Engineering
 Building a Movie Recommendation System
-Creating Visualizations in Power BI
+Creating Visualizations 
 Documentation and Summary
 
 # Dataset Description
@@ -42,7 +42,6 @@ Alternative: Used popularity-based filtering to recommend top-rated movies withi
 Top 10 movies by revenue and rating.
 Genre distribution visualization.
 Budget vs. revenue comparison.
-
 
 Exported the cleaned dataset for Power BI visualization.
 
